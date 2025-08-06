@@ -20,4 +20,4 @@ metrics—and even exceeds OpenAI-o3.
 
 Below is the diagram of the model structure:
 
-![Model Architecture](path/to/model_architecture.png)
+![Model Architecture](./fig2.svg)
