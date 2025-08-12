@@ -11,7 +11,7 @@ Dataset/
 `-- test.csv
 
 The **csv files** should be organized as shown in the figure below.
-![Dataset Architecture](./dataset.png)
+![Dataset Architecture](./data_architecture.png)
 
 
 
