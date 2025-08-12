@@ -30,5 +30,5 @@ Below is the diagram of the model structure:
 - `stage_two: OCT–Biomarker Alignment`  
   Next, train **RETFound** with **CLIP-style** alignment so that OCT features are semantically fused with the OCT biomarkers.
 
-- Final step  
+- `Final step ` 
   Use the **stage_two–trained RETFound** as the **OCT encoder**, and **RetiZero** ([link](https://github.com/LooKing9218/RetiZero)) as the **CFP encoder**, then **fine-tune Qwen2**.
