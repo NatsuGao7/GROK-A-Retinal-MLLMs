@@ -27,8 +27,8 @@ conda activate Alignment
 2: Install dependencies
 ```bash
 conda install pytorch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 pytorch-cuda=12.1 -c pytorch -c nvidia
-git clone https://github.com/rmaphoh/RETFound_MAE/
-cd RETFound_MAE
+git clone https://github.com/rmaphoh/RETFound_MAE/](https://github.com/NatsuGao7/GROK-A-Retinal-MLLMs.git
+cd state_two: OCT-Biomarker Alignment
 pip install -r requirements.txt
 ```
 ### 🔥 Model training
