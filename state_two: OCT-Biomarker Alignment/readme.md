@@ -4,11 +4,11 @@ Please download the OCT-based weights from the RETFound repository ([RETFound_MA
 ---
 Please organize the data as:
 
-Dataset/
-|-- training dataset/
-|-- test dataset/
-|-- training.csv
-`-- test.csv
+- Dataset/
+  - training dataset/
+  - test dataset/
+  - training.csv
+  - test.csv
 
 The **csv files** should be organized as shown in the figure below.
 ![Dataset Architecture](./data_architecture.png)
