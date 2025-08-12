@@ -4,9 +4,9 @@ Please download the OCT-based weights from the RETFound repository ([RETFound_MA
 ---
 Please organize the data as:
 
-- Dataset/
-  - training dataset/
-  - test dataset/
+- Dataset
+  - training dataset
+  - test dataset
   - training.csv
   - test.csv
 
