@@ -25,6 +25,3 @@ bash train_grok.sh
 A sample data slice is provided in **`example_data.json`**.
 Your generated **training** and **testing** datasets should follow the same structure as in this example.
 
-```
-```
-
