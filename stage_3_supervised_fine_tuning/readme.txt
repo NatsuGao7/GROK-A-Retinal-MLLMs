@@ -1,7 +1,4 @@
-好的，这是直接可用的 Markdown 文本：
-
-````markdown
-# Project Overview
+# Overview
 
 This repository contains code and configuration for training with **RETFound** and **RetiZero** encoders.
 
