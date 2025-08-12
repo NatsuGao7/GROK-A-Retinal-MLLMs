@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1924685",
+    "image": "AMD/CFP/1924685_21015_0_0.png",
+    "octs": "AMD/OCT_3D/1924685_21017_0_0",
+    "label": "AMD",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nInterpret the retinal images, identify and analyze the key features and abnormalities,then write a single-paragraph evidence-based clinical diagnosis report that is supported by the findings."
+      },
+      {
+        "from": "gpt",
+        "value": "The optic disc has a healthy pink neuro-retinal rim with a moderate cup of roughly 0.6 and vessels of normal calibre and only mild tortuosity; thus glaucomatous or vascular causes for visual loss are unlikely. Attention centres on the macula, where the colour photograph shows numerous yellow-white, variably sized deposits clustered within the posterior pole and extending nasal to the fovea, together with patchy pigment mottling. These lesions correspond on the OCT to multiple small, dome-shaped elevations of the hyper-reflective RPE band producing smooth undulations of the overlying retina; the photoreceptor–RPE complex retains a continuous contour without subretinal fluid, haemorrhage or hyper-reflective exudates. Foveal depression is preserved and the neurosensory retina measures in the high-200 µm range centrally, while nasal sectors are slightly thicker, mirroring the drusen topography. Outer retinal bands are still identifiable and the RPE slab remains only about 26 µm thick on average, indicating that frank geographic atrophy has not yet developed. The absence of intraretinal cysts, serous pigment-epithelial detachment or choroidal neovascular membrane rules out an exudative process. There are no micro-aneurysms, blot haemorrhages or hard exudates, so diabetic macular disease can be dismissed. Taken together, the imaging demonstrates intermediate age-related macular degeneration characterised by confluent soft drusen and early pigmentary disturbance without evidence of neovascular conversion. Regular monitoring for progression and patient education regarding self-testing (Amsler grid) and modifiable risk factors are recommended."
+      }
+    ]
+  },
+  {
+    "id": "3031024",
+    "image": "AMD/CFP/3031024_21015_0_0.png",
+    "octs": "AMD/OCT_3D/3031024_21017_0_0",
+    "label": "AMD",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nInterpret the retinal images, identify and analyze the key features and abnormalities,then write a single-paragraph evidence-based clinical diagnosis report that is supported by the findings."
+      },
+      {
+        "from": "gpt",
+        "value": "The optic disc is healthy-looking with a small physiologic cup of about 0.2 and a full pink neuro-retinal rim, while the retinal vessels show only mild calibre change and gentle tortuosity, supporting a normal perfusion pattern. In the macula, several round, yellow-white deposits are clustered just temporal to the foveal centre; their discrete borders and uniform size are characteristic of hard-to-intermediate drusen. No haemorrhage, lipid, or pigment epithelial detachment is visible on colour photography, and the peripheral retina remains quiet, so diabetic or hypertensive retinopathy can be set aside. The foveal OCT section confirms a smooth contour with central thickness close to 240 µm, framed by a physiologic parafoveal thickening that rises toward roughly 300 µm in the inner ring—values that fit within normal anatomic variation. Along the RPE interface fine undulations are present, mirroring the drusen seen clinically, yet the hyper-reflective RPE band itself retains uniform reflectivity, and the overlying ellipsoid zone remains continuous; the photoreceptor-RPE complex measures near 40 µm, arguing against incipient atrophy. Crucially, there is no intraretinal cystic change or subretinal fluid, excluding active choroidal neovascularisation. Inner retinal health is likewise preserved, with the macular RNFL averaging in the mid-20 µm range and GC-IPL around 80 µm, making glaucomatous or neuro-degenerative pathology improbable. Taken together, the funduscopic drusen coupled with subtle drusenoid elevations on tomography, in the absence of exudation, haemorrhage, or geographic thinning, align best with early-to-intermediate non-neovascular (dry) age-related macular degeneration. Continued observation with periodic OCT and lifestyle counselling (smoking cessation, AREDS-2 supplementation as indicated) is advised, with urgent review should distortion or sudden vision loss occur."
+      }
+    ]
+  }]
