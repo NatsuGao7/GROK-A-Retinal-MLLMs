@@ -181,7 +181,7 @@ AutoMorph: [Code](https://github.com/rmaphoh/AutoMorph) [Paper](https://pubmed.n
 
 ## Prompt Engineering
 `instruction_template.md` is our prompt template. Following the workflow diagram, package the **CFP image**, the **central foveal OCT scan**, the **derived biomarkers**, and the **corresponding labels** into the prompt, then submit it to **Open-o3**.
-`evaluation.md` is our evaluation template.'OCT_only_template.md'is the data generation template for the ablation study.
+`evaluation.md` is our evaluation template.`OCT_only_template.md`is the data generation template for the ablation study.
 
 
 
