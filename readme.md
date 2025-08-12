@@ -45,3 +45,6 @@ RETFound is the OCT encoder
 **Qwen2** ([code](https://github.com/QwenLM/Qwen2.5-VL)) ([paper](https://arxiv.org/abs/2407.10671))
 Qwen2 is the large language model
 
+**Alignment** 
+For the theoretical foundations of tabular–OCT alignment, please refer to the following. ([paper](https://arxiv.org/abs/2303.14080))
+
