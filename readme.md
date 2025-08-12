@@ -21,3 +21,14 @@ metrics—and even exceeds OpenAI-o3.
 Below is the diagram of the model structure:
 
 ![Model Architecture](./fig2.svg)
+
+## 🔥 Model Training:
+
+- `stage_one: Knowledge-guided instruction generation`  
+  First, generate the dataset according to **stage_one**.
+
+- `stage_two: OCT–Biomarker Alignment`  
+  Next, train **RETFound** with **CLIP-style** alignment so that OCT features are semantically fused with the OCT biomarkers.
+
+- Final step  
+  Use the **stage_two–trained RETFound** as the **OCT encoder**, and **RetiZero** ([link](https://github.com/LooKing9218/RetiZero)) as the **CFP encoder**, then **fine-tune Qwen2**.
