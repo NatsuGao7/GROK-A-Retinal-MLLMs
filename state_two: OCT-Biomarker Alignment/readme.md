@@ -11,6 +11,7 @@ Dataset/
 `-- test.csv
 
 The **csv files** should be organized as shown in the figure below.
+![Model Architecture](./dataset.png)
 
 
 
