@@ -32,3 +32,16 @@ Below is the diagram of the model structure:
 
 - `Final step ` 
   Use the **stage_two–trained RETFound** as the **OCT encoder**, and **RetiZero** ([link](https://github.com/LooKing9218/RetiZero)) as the **CFP encoder**, then **fine-tune Qwen2**.
+
+## Referenced Models:
+This work uses and introduces several additional models; if anything is unclear, please refer to the following.
+
+**RetiZero** ([code](https://github.com/LooKing9218/RetiZero)) ([paper](https://arxiv.org/abs/2406.09317))
+RetiZero is the CFP encoder
+
+**RETFound** ([code](https://github.com/rmaphoh/RETFound_MAE)) ([paper](https://www.nature.com/articles/s41586-023-06555-x))
+RETFound is the OCT encoder
+
+**Qwen2** ([code](https://github.com/QwenLM/Qwen2.5-VL)) ([paper](https://arxiv.org/abs/2407.10671))
+Qwen2 is the large language model
+
